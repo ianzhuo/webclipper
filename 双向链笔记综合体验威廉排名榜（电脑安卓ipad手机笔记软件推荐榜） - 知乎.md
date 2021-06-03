@@ -431,4 +431,5 @@ Markdown 最大的优点就是在没有任何专业性的文本软件甚至电�
 -   以下两个方式都是为笔记爱好者们提供的纯净中文交流环境无任何商业用途。推荐优先加入 "开黑啦" 聊天室，因为 QQ 群有满员的问题，开 "黑啦" 没有人数限制。
 -   【[欢迎点击加入 Obsidian and RemNote 聊天室（开黑啦服务器号 ID 38993595）](https://link.zhihu.com/?target=https%3A//kaihei.co/Yz3ciI) 】
 -   【[欢迎点击加入 Obsidian and RemNote QQ 群（群号 1026788769）](https://link.zhihu.com/?target=https%3A//jq.qq.com/%3F_wv%3D1027%26k%3D98OOipKU) 】 
+
     [https://www.zhihu.com/column/p/267451435](https://www.zhihu.com/column/p/267451435)
